@@ -32,3 +32,4 @@
 # Notes
 
 <!-- Notes go here -->
+ I actually found out about the Developer applications the day they were due, so I was only able to accomplish the minimum requirements, but this project is incredibly cool, and I would like to continue working on it after submitting as a personal exercise!
